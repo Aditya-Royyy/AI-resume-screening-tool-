@@ -1,2 +1,1 @@
-# AI-resume-screening-tool-
-ChatGPT said:  AI-powered Applicant Tracking System (ATS) for automated resume screening using NLP and ML. Parses resumes, extracts keywords, compares with job descriptions, and ranks candidates based on relevance. Improves hiring efficiency, fairness, and accuracy. Includes technical background, examples, and Kaggle-based references.
+# AI-resume-screening-tool- AI-powered Applicant Tracking System (ATS) for automated resume screening using NLP and ML. Parses resumes, extracts keywords, compares with job descriptions, and ranks candidates based on relevance. Improves hiring efficiency, fairness, and accuracy. Includes technical background, examples, and Kaggle-based references.
